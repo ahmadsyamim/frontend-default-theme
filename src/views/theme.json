@@ -1,5 +1,6 @@
 {
     "name": "default",
+    "package_name": "ahmadsyamim/frontend-default-theme",
     "extends": "",
     "asset-path": "default",
     "views-path": "default"
